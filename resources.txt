@@ -1,0 +1,32 @@
+Project 3 Resources
+
+Udacity OOJS and HTML5 Canvas course
+
+Udacity Office Hours
+
+Debugging in Chrome Dev Tools
+https://plus.google.com/events/cnol83cpan170apb933pvmlts94?authkey=CJaD8fvjs_2OSg
+
+P3: Understanding the engine.js
+https://plus.google.com/events/cupbs3pbne7qkuqok4g0ldhntic?authkey=COGW25b5jbv3-AE
+
+Project 3 and Program Questions
+https://plus.google.com/events/cnoi8huerhdgpgde1umpkn97rlg
+Questions: I am trying to figure out the width and height of players and bugs. The images are 101x171 pixels but that is not how tall and wide the bug and player are. Is there a way to figure this out. I am working on collision and trying to define the rectangles.
+
+Frogger game notes:  https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/edit#
+
+http://msdn.microsoft.com/en-us/library/ie/yek4tbz0(v=vs.94).aspx
+
+http://www.javascriptkit.com/jsref/
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+
+http://www.w3schools.com/jsref/default.asp
+
+http://www.ecma-international.org/ecma-262/5.1/
+
+
+
+
+
